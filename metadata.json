@@ -1,0 +1,8 @@
+{
+  "name": "Apex AI E-Commerce Platform",
+  "description": "An enterprise-grade, highly polished, premium AI-powered e-commerce platform featuring natural language product discovery, interactive AI shopping assistant, and advanced dashboards for customers, sellers, and administrators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
